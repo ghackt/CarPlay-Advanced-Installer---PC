@@ -1,2 +1,2 @@
 # CarPlay-Advanced-Installer---PC
-This is a Full CarPlay Advanced Installer For PC
+This is a Full CarPlay Advanced Installer For PC from original .APK
